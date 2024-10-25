@@ -1,1 +1,0 @@
-Hello, Gitgit push -u origin main
